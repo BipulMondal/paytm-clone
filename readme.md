@@ -8,6 +8,7 @@ Lets Check This now.
 ***
 I took 2 days to complete this project with responsive.
 
-[Netlify Link]()
+[Netlify Link](https://app.netlify.com/sites/paytm-clone-live-class/overview)
 
-![badge]()
+![badge](https://img.shields.io/badge/Live--Class-paytm%20clone-ff69b4)
+>lets check this
